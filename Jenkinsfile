@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-org/project.git'
+                git 'https://github.com/vinayak10-m/opskildevops.git'
             }
         }
 
